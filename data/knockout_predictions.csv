@@ -1,0 +1,33 @@
+,match_id,round,predicted_home_team,predicted_away_team,predicted_home_goals,predicted_away_goals,corners,yellow_cards,red_cards,match_winner,penalties
+0,73,Round of 32,South Korea,Canada,1,1,10,3,0,home,True
+1,74,Round of 32,Brazil,Netherlands,1,1,10,3,0,home,True
+2,75,Round of 32,Germany,Scotland,2,1,10,3,0,home,False
+3,76,Round of 32,Japan,Morocco,2,1,10,3,0,home,False
+4,77,Round of 32,Ecuador,Norway,1,1,10,3,0,home,True
+5,78,Round of 32,France,Côte d'Ivoire,2,1,10,3,0,home,False
+6,79,Round of 32,Mexico,Iran,2,1,10,3,0,home,False
+7,80,Round of 32,England,Czechia,2,1,10,3,0,home,False
+8,81,Round of 32,Belgium,Bosnia and Herzegovina,2,1,10,3,0,home,False
+9,82,Round of 32,Türkiye,Senegal,2,1,10,3,0,home,False
+10,83,Round of 32,Portugal,Croatia,1,1,10,3,0,home,True
+11,84,Round of 32,Spain,Algeria,2,1,10,3,0,home,False
+12,85,Round of 32,Switzerland,Austria,2,1,10,3,0,home,False
+13,86,Round of 32,Australia,Egypt,2,1,10,3,0,home,False
+14,87,Round of 32,Argentina,Uruguay,1,1,10,3,0,home,True
+15,88,Round of 32,Colombia,Panama,2,1,10,3,0,home,False
+16,89,Round of 16,South Korea,Germany,1,2,10,3,0,away,False
+17,90,Round of 16,Brazil,Ecuador,1,1,10,3,0,home,True
+18,91,Round of 16,Japan,France,1,2,10,3,0,away,False
+19,92,Round of 16,Mexico,England,1,1,10,3,0,away,True
+20,93,Round of 16,Portugal,Spain,1,2,10,3,0,away,False
+21,94,Round of 16,Belgium,Türkiye,1,1,10,3,0,away,True
+22,95,Round of 16,Australia,Colombia,1,2,10,3,0,away,False
+23,96,Round of 16,Switzerland,Argentina,1,1,10,3,0,away,True
+24,97,Quarter-final,Germany,Brazil,1,1,10,3,0,home,True
+25,98,Quarter-final,Spain,Türkiye,2,1,10,3,0,home,False
+26,99,Quarter-final,France,England,1,1,10,3,0,home,True
+27,100,Quarter-final,Colombia,Argentina,1,2,10,3,0,away,False
+28,101,Semi-final,Germany,Spain,1,2,10,3,0,away,False
+29,102,Semi-final,France,Argentina,1,1,10,3,0,away,True
+30,103,Third-place playoff,Germany,France,1,2,10,3,0,away,False
+31,104,Final,Spain,Argentina,2,1,10,3,0,home,False
